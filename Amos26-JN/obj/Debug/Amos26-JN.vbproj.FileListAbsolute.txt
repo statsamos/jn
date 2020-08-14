@@ -1,0 +1,4 @@
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-JN.dll
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-JN.pdb
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-JN\Amos26-JN\obj\Debug\Amos26-JN.dll
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-JN\Amos26-JN\obj\Debug\Amos26-JN.pdb
