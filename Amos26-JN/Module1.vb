@@ -11,6 +11,7 @@ Imports System.Linq
 Public Class FitClass
     Implements Amos.IPlugin
     'This plugin was written by Matthew James May 2019 for James Gaskin
+    'This plugin was updated 2022 by Joseph Steed
 
     Public Function Name() As String Implements Amos.IPlugin.Name
         Return "J-N Plot Analysis"
@@ -206,7 +207,7 @@ Public Class FitClass
         End If
 
         debug.PrintX("<h3>References</h3><hr><p>--Hayes, A. F., and Matthes, J. 2009. ""Computational Procedures for Probing Interactions in OLS and Logistic Regression: SPSS and SAS Implementations,"" Behavior research methods (41:3), pp. 924-936.</p>")
-        debug.PrintX("<p>--Gaskin, J. and James, M. (2019) “"Johnson-Neyman Plot Analysis Plugin for AMOS”". <a href=""http://statwiki.kolobkreations.com"">Gaskination's StatWiki</a>.</p>")
+        debug.PrintX("<p>--Gaskin, J., and James, M, and Steed, J. (2022) “"Johnson-Neyman Plot Analysis Plugin for AMOS”". <a href=""http://statwiki.gaskination.com"">Gaskination's StatWiki</a>.</p>")
 
         debug.PrintX("<script>
     var lowerInt = " + Str(dROS1) + ";
